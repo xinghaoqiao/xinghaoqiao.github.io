@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}, nofooter, addcss{prob.css}
+=Xinghao Qiao
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{200}{212}{}
+Associate Professor\n
+HKU Business School\n
+The University of Hong Kong\n
+Office: KK1340 \n
+Phone: +852 3910 3109 \n
+Email: xinghaoq@hku.hk \n
+~~~
+
+== About me
+Xinghao Qiao is an Associate Professor in the area of Innovation and Information Management at the HKU Business School. Prior to HKU, he was an Associate Professor in the Department of Statistics at The London School of Economics and Political Science.
+
+See {{<a href="https://www.hkubs.hku.hk/people/xinghao-qiao/" target="_blank">my university homepage</a>}}.
+
+== Research interests
+
+- Functional data analysis
+
+- Complex time series analysis
+
+- High-dimensional statistics/econometrics
+
+- AI and machine learning with business applications
+

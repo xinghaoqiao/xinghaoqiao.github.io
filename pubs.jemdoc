@@ -1,0 +1,78 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+= Research
+
+For recent and detailed publications, visit my {{<a href="https://scholar.google.com/citations?user=xqEF8PgAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>}} page.
+
+== Publications
+
+- Factor-guided estimation of large covariance matrix function with conditional functional sparsity. \n 
+Li, D., *Qiao, X.* and Wang, Z. \n 
+/Journal of Econometrics/, 2025.
+
+- Factor modelling for high-dimensional functional time series.\n
+Guo, S., *Qiao, X.*, Wang, Q. and Wang, Z.\n
+/Journal of Business & Economic Statistics/, 2025.
+
+- From sparse to dense functional data in high dimensions: Revisiting phase transitions from a non-asymptotic perspective.\n
+Guo, S., Li, D., *Qiao, X.*, and Wang, Y.\n  
+/Journal of Machine Learning Research/, 2025.
+
+- On the Modeling and Prediction of High-Dimensional Functional Time Series.\n
+Chang, J., Fang, Q., *Qiao, X.*,, and Yao, Q. \n
+/Journal of the American Statistical Association/, 2024.
+
+- Deep functional factor models: Forecasting high-dimensional functional time series via Bayesian nonparametric factorization.\n
+Liu, Y., *Qiao, X.*,, Wang, L. and Pei, Y.\n
+/The 41th International Conference on Machine Learning, PMLR/, 2024.
+
+- Adaptive functional thresholding for sparse covariance function estimation in high dimensions.\n
+Fang, Q., Guo, S. and *Qiao, X.*\n 
+/Journal of the American Statistical Association/, 2024.
+
+- An autocovariance-based learning framework for high-dimensional functional time series.\n
+Chang, J., Chen, C., *Qiao, X.* and Yao, Q. \n
+/Journal of Econometrics/, 2024.
+
+- EEGNN: Edge enhanced graph neural networks with a Bayesian nonparametric graph model. \n
+Liu, Y., *Qiao, X.*, Wang, L. and Lam, J. \n
+/The 26th International Conference on Artificial Intelligence and Statistics, PMLR/, 2023.
+
+- On consistency and sparsity for high-dimensional functional time series with application to autoregressions.\n
+Guo, S. and *Qiao, X.*\n  
+/Bernoulli/, 2023.
+
+- CATVI: Conditional and adaptively truncated variational inference for hierarchical Bayesian nonparametric models.\n
+Liu, Y., *Qiao, X.* and Lam, J.\n
+/The 25th International Conference on Artificial Intelligence and Statistics, PMLR/, 2022.
+
+- Finite sample theory for high-dimensional functional time series with applications.\n
+Fang, Q., Guo, S. and *Qiao, X.*\n  
+/Electronic Journal of Statistics/, 2022.
+
+- Functional linear regression: dependence and error contamination.\n
+Chen, C., Guo, S. and *Qiao, X.* \n
+/Journal of Business & Economic Statistics/, 2022.
+
+- Homogeneity pursuit in single index models-based panel data analysis.\n
+Lian, H., *Qiao, X.* and Zhang, W. \n  
+/Journal of Business & Economic Statistics/, 2021.
+
+- Doubly functional graphical models in high dimensions. \n
+*Qiao, X.*, Qian, C., James, G. and Guo, S.\n
+/Biometrika/, 2020.
+
+- Functional graphical models.\n
+*Qiao, X.*, Guo, S. and James, G.\n
+/Journal of the American Statistical Association/, 2019.
+
+- Index models for sparsely sampled functional data.\n
+Radchenko, P., *Qiao, X.* and James, G.\n  
+/Journal of the American Statistical Association/, 2015.
+
+== Paper Under Revision
+
+- 
+
+== Working Papaers
+
+- 
