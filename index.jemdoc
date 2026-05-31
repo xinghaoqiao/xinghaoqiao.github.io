@@ -8,21 +8,35 @@ HKU Business School\n
 The University of Hong Kong\n
 Office: KK1340 \n
 Phone: +852 3910 3109 \n
-Email: xinghaoq@hku.hk \n
+Email: {{<a href="mailto:xinghaoq@hku.hk">xinghaoq@hku.hk</a>}} \n
 ~~~
 
 == About me
-Xinghao Qiao is an Associate Professor in the area of Innovation and Information Management at the HKU Business School. Prior to HKU, he was an Associate Professor in the Department of Statistics at The London School of Economics and Political Science.
+I am a tenured Associate Professor in the area of {{<a href="https://www.hkubs.hku.hk/people/xinghao-qiao/" target="_blank"> Innovation and Information Management </a>}} at HKU Business School.\n
+Prior to HKU, I was a tenured Associate Professor in the {{<a href="https://www.lse.ac.uk/statistics" target="_blank">Department of Statistics</a>}} at the London School of Economics, U.K.
 
-See {{<a href="https://www.hkubs.hku.hk/people/xinghao-qiao/" target="_blank">my university homepage</a>}}.
+I am also part of the {{<a href="https://hkubs-stat.github.io" target="_blank">Business Analytics Group</a>}} at HKU Business School.
+
+*News*:\n
+HKU Business School (our {{<a href="https://hkubs-stat.github.io" target="_blank">Business Analytics Group</a>}}) and the School of Computing and Data Science invite applications for a joint tenure-track appointment at the rank of Assistant Professor\/Associate Professor\/Professor in Statistics, AI, and Data Science. This is an AI+Business hire.
+For details and application, please {{<a href="https://jobs.hku.hk/cw/en/job/536106/tenuretrack-professorassociate-professorassistant-professor-in-hku-business-school-and-the-school-of-computing-and-data-science" target="_blank"> click here</a>}}.
+
+*Opportunities*:\n
+I am actively recruiting PhD students and summer interns who have strong mathematical and statistical background and a genuine curiosity in modern statistics, econometrics and data science. \n
+Please consider sending me an email with your CV, and applying to our {{<a href="https://phd.hkubs.hku.hk/" target="_blank">PhD program</a>}}. For more information, see the {{<a href="application_info.pdf" target="_blank">PhD recruitment slides</a>}}.
+
+== Education
+
+- PhD in Business Administration ({{<a href="https://usc-dso-stat-group.github.io/" target="_blank">Statistics</a>}}), Marshall School of Business, University of Southern California, USA\n
+\- Advisor: {{<a href="https://www.garethmjames.com/" target="_blank">Gareth James</a>}}
+- MS in {{<a href="https://stat.uchicago.edu/" target="_blank">Statistics</a>}}, University of Chicago, USA
+- BS in {{<a href="https://www.math.tsinghua.edu.cn/" target="_blank">Mathematics</a>}} and {{<a href="https://www.phys.tsinghua.edu.cn/" target="_blank">Physics</a>}}, Tsinghua University, China
 
 == Research interests
 
-- Functional data analysis
-
+- Causal inference and experimental design 
 - Complex time series analysis
-
 - High-dimensional statistics/econometrics
-
-- AI and machine learning with business applications
+- Statistical foundations of LLMs
+- Functional data analysis 
 

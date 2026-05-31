@@ -1,17 +1,19 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 = Teaching
 
-Here is a list of courses I have taught at HKU and LSE.
-
 == At HKU
 
-=== MSBA7013 - Forecasting and Predictive Analytics
+- IIMT 1640 - Probability and Statistics for Business\n
 
-- * Time *: Fall 2024
+- MSBA 7013 - Forecasting and Predictive Analytics\n
 
 == At LSE
 
-=== ST443 - Machine Learning and Data Mining
+- ST 300 - Regression and Generalised Linear Models\n
 
-- * Time *: Fall 2023
+- ST 311 - Artificial Intelligence \n
+
+- ST 443 - Machine Learning and Data Mining\n
+
+- ST 510 - Foundations of Machine Learning (PhD core) \n
 
